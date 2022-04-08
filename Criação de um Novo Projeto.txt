@@ -14,26 +14,30 @@ Dentro deste Projeto serão incluidos todos os services pertinentes deste projet
 No Nosso Caso o Service User
 		     Dentro da Pasta Personal Budget
 		     Inclua a Pasta user-service
+		     Inclua um Arquivo txt = Documentação de Criação do User Service
 
 			git add .
 			git commit -m "Creating user-service"
 			git push origin master
 
 
-Passo 1 - Crie as Estruturas
-user-service
-	user-app
-	user-consumer
-	user-relay
-	user-e2e
+A partir deste Ponto Sua Estrutura Principa do Projeto esta Pronta.
+Dentro da Pasta de user-service existe a documentação para criação de um new service.
 
-Adicione o Git como controle de Versão de todo o projeto
-	Ir até a pasta do projeto
-		git init
+---------------------------------------------------------------------------------------------
 
+Sempre que precisar incluir um novo service siga estes passos:
+	Dentro da Pasta Principa do Projeto = Personal Budget
+		     Inclua a Pasta           = user-service
+		     Inclua um Arquivo txt    = Documentação de Criação do User Service
 
-Ir no Repositorio Git e Criar a Estrutura
-	
+			git add .
+			git commit -m "Creating user-service"
+			git push origin master
+
+---------------------------------------------------------------------------------------------
+
+		
 
 
 	
