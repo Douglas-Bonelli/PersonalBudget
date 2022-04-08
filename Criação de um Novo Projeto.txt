@@ -1,0 +1,26 @@
+Passo 0 Cria a pasta principal do projeto
+	Personal Budget
+	git init
+
+	
+
+
+
+
+Passo 1 - Crie as Estruturas
+user-service
+	user-app
+	user-consumer
+	user-relay
+	user-e2e
+
+Adicione o Git como controle de Versão de todo o projeto
+	Ir até a pasta do projeto
+		git init
+
+
+Ir no Repositorio Git e Criar a Estrutura
+	
+
+
+	
