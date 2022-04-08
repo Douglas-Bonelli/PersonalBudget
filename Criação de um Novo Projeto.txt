@@ -1,11 +1,23 @@
-Passo 0 Cria a pasta principal do projeto
-	Personal Budget
-	git init
-	git add .
-	git commit -m "First Commit"
-	git add remote add origin https://github.com/Douglas-Bonelli/PersonalBudget.git
+Passo Inicial
+Crie uma Pasta para o Projeto Inicial
+Por Exemplo     - Personal Budget
+Add Este no Git - git init
+			git add .
+			git commit -m "First Commit"
+			git remote add origin https://github.com/Douglas-Bonelli/PersonalBudget.git
+			git remote -v
+			git push origin master
 
+Neste Ponto vc já tem no GIT o seu Projeto.
+Dentro deste Projeto serão incluidos todos os services pertinentes deste projeto.
 
+No Nosso Caso o Service User
+		     Dentro da Pasta Personal Budget
+		     Inclua a Pasta user-service
+
+			git add .
+			git commit -m "Creating user-service"
+			git push origin master
 
 
 Passo 1 - Crie as Estruturas
