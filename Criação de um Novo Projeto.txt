@@ -1,8 +1,9 @@
 Passo 0 Cria a pasta principal do projeto
 	Personal Budget
 	git init
-
-	
+	git add .
+	git commit -m "First Commit"
+	git add remote add origin https://github.com/Douglas-Bonelli/PersonalBudget.git
 
 
 
